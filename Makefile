@@ -1,4 +1,4 @@
-# Makefile for CANopenNode with Linux socketCAN (with commander functionalities) ASH
+# Makefile for CANopenNode with Linux socketCAN (with commander functionalities) ASH3
 
 
 DRV_SRC = .
